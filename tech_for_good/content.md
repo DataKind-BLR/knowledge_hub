@@ -15,4 +15,5 @@ The following section serves as a guide-book to get familiar and started on vari
 - [Datasets](/knowledge_hub/tech/datasets)
 - [Frameworks](/knowledge_hub/tech/frameworks)
 - [Podcasts](/knowledge_hub/tech/podcasts)
+- [Talks](/knowledge_hub/tech/talks)
 - [Tools](/knowledge_hub/tech/tools)
